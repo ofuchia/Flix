@@ -25,6 +25,4 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 
 ### Notes
-Describe any challenges encountered while building the app.
-
 My properties kept on being locked, meaning I couldn't add elements under the MovieCell class nor could I adjust the row hight for the poster image. While I still don't k what caused it, I do have an idea on how to disable it.
